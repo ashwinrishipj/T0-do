@@ -1,0 +1,18 @@
+.navbar-Logout{
+    margin-Left:"5%";
+     color: "#fff";
+     cursor:"pointer";
+}
+.navbar-Logout :active{
+    transform: translateY(4px);
+    color: red !important;
+}
+
+.border {
+    box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.5);
+    transition: 0.2s;
+    height: fit-content;
+    background-color: #fff;
+    border-radius: 10px;
+    z-index: 2;
+}
