@@ -1,12 +1,81 @@
 {
-    "tasks": [
-      { "id": 1, "title": "watch-movies", "content":"jhgdjfgjgd","time": "11.15 pm","date":"08-02-95" },
-      { "id": 2, "title": "code", "content":"jkj alpha d","time": "11.25 pm","date":"02-02-95" },
-      { "id": 3, "title": "party", "content":"jhgd beta jfgjgd","time": "11.05 am","date":"01-02-25" },
-      { "id": 4, "title": "gf treat", "content":"jhgdj gamma fgjgd","time": "11.20 am","date":"08-02-20" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
-    ],
-    "profile": { "name": "typicode" }
-  } 
+  "tasks": [
+    {
+      "id": 1,
+      "title": "watch-movies",
+      "content": "jhgdjfgjgd",
+      "time": "11.15 pm",
+      "date": "08-02-95"
+    },
+    {
+      "id": 2,
+      "title": "code",
+      "content": "jkj alpha d",
+      "time": "11.25 pm",
+      "date": "02-02-95"
+    },
+    {
+      "id": 3,
+      "title": "party",
+      "content": "jhgd beta jfgjgd",
+      "time": "11.05 am",
+      "date": "01-02-25"
+    },
+    {
+      "id": 4,
+      "title": "gf treat",
+      "content": "jhgdj gamma fgjgd",
+      "time": "11.20 am",
+      "date": "08-02-20"
+    }
+  ],
+  "completed": [
+    {
+      "id": 1,
+      "title": "podanguuu",
+      "content": "jhgdjfgjgd",
+      "time": "11.15 pm",
+      "date": "08-02-95"
+    },
+    {
+      "id": 3,
+      "title": "thaaa",
+      "content": "jhgd beta jfgjgd",
+      "time": "11.05 am",
+      "date": "01-02-25"
+    },
+    {
+      "id": 2,
+      "title": "kannuu",
+      "content": "jkj alpha d",
+      "time": "11.25 pm",
+      "date": "02-02-95"
+    }
+  ],
+  "deleted": [
+    {
+      "id": 1,
+      "title": "deletd 1",
+      "content": "happy??",
+      "time": "11.15 pm",
+      "date": "08-02-95"
+    },
+    {
+      "id": 3,
+      "title": "deleted 2",
+      "content": "happy 2",
+      "time": "11.05 am",
+      "date": "01-02-25"
+    },
+    {
+      "id": 2,
+      "title": "deletd 3 ",
+      "content": "happy 4",
+      "time": "11.25 pm",
+      "date": "02-02-95"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
