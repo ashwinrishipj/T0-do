@@ -1,9 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Nav, Form, Card, Button, Modal } from "react-bootstrap"
 
-
 export default function Todo() {
-
   const [show, setShow] = useState(false);
   const [taskContent, setTaskContent] = useState("");
   const [newTask, setnewTask] = useState("")
